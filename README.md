@@ -24,9 +24,8 @@ A delicious, fully responsive landing page for a restaurant, built with **React.
 
 | Desktop View | Mobile View |
 |:---:|:---:|
-| <img src="رابط_صورة_الكمبيوتر_هنا" alt="Desktop Screenshot" width="400"/> | <img src="رابط_صورة_الموبايل_هنا" alt="Mobile Screenshot" width="200"/> |
+| <img width="1920" height="895" alt="image" src="https://github.com/user-attachments/assets/0484dd49-2768-4687-9e1f-a8c7cc6ee687" /> | <img width="409" height="796" alt="image" src="https://github.com/user-attachments/assets/4fff37dc-dbdf-40e3-a2fa-70ab4d5394a9" /> |
 
-*(Don't forget to upload screenshots of your site and replace the links above)*
 
 ## 💻 Getting Started
 
