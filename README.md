@@ -59,7 +59,7 @@ The app will open in your browser at `http://localhost:3000`.
 **Majd Harb**
 * **Portfolio:** [Link to your Portfolio/LinkedIn]
 * **GitHub:** [majdharb123](https://github.com/majdharb123)
-* **Email:** [Your Email Address]
+* **Email:** [majdharb37@gmail.com]
 
 ---
 *This project was built for educational purposes and to demonstrate frontend development skills.*
