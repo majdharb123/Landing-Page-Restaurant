@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# 🍔 Restaurant Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A delicious, fully responsive landing page for a restaurant, built with **React.js** and **Bootstrap 5**. This project showcases a modern UI design with a hero section, menu display, and an about section.
 
-## Available Scripts
+## 🚀 Live Demo
+👉 **[Click Here to View Live Demo](https://landing-page-restaurant-zeta.vercel.app/)**
 
-In the project directory, you can run:
+## ✨ Key Features
 
-### `npm start`
+* **Responsive Design:** Looks great on all devices (Mobile, Tablet, Desktop) using Bootstrap's grid system.
+* **Modern Hero Section:** Eye-catching background with a clear Call-to-Action (CTA).
+* **Dynamic Menu:** Food items are mapped from a data array, making it easy to update the menu.
+* **Reusable Components:** Built using modular React components (Navbar, Buttons, Carts) for clean code structure.
+* **Fast Loading:** Optimized assets for a smooth user experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠️ Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* **Frontend:** React.js (Hooks, Functional Components)
+* **Styling:** Bootstrap 5, Custom CSS
+* **Images:** Optimized assets for web
+* **Deployment:** Vercel (Recommended)
 
-### `npm test`
+## 📸 Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Desktop View | Mobile View |
+|:---:|:---:|
+| <img src="رابط_صورة_الكمبيوتر_هنا" alt="Desktop Screenshot" width="400"/> | <img src="رابط_صورة_الموبايل_هنا" alt="Mobile Screenshot" width="200"/> |
 
-### `npm run build`
+*(Don't forget to upload screenshots of your site and replace the links above)*
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run this project locally on your machine, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/majdharb123/landing-page-restaurant.git](https://github.com/majdharb123/landing-page-restaurant.git)
+    ```
 
-### `npm run eject`
+2.  **Navigate to the project directory:**
+    ```bash
+    cd landing-page-restaurant
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4.  **Start the development server:**
+    ```bash
+    npm start
+    ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The app will open in your browser at `http://localhost:3000`.
+    
+## 👤 Author
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Majd Harb**
+* **Portfolio:** [Link to your Portfolio/LinkedIn]
+* **GitHub:** [majdharb123](https://github.com/majdharb123)
+* **Email:** [Your Email Address]
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+*This project was built for educational purposes and to demonstrate frontend development skills.*
